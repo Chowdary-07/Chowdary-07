@@ -6,14 +6,11 @@
 - 📫 How to reach me **sathwikchowdary7@gmail.com**
 
 - ⚡ Fun fact **"It’s not magic, it’s talent and sweat"**
-<h3 align="left"> Profile Rankings</h3>
+<h3 align="left"> Competative Profiles</h3>
 <p align="left">
   <a href="https://www.codechef.com/users/wolve7rine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="wolve7rine" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wolverine_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wolverine_07" height="30" width="40" /></a>
   </p>
-  
-  document.querySelector("#profile-root > div.content-wrapper__2N7X > div > div.profile-content__3PmZ > div.cards-container__310X > div:nth-child(1) > div > div:nth-child(1) > div > div > div > div.css-57pydk")
-  
   
   
 <h3 align="left">Connect with me:</h3>
