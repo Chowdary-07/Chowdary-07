@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sathvik Chowdary Veeerapaneni</h1>
 <h3 align="center">I am a Developer, Competitive Programmer, Machine Learning Engineer, and Cloud Seeker.</h3>
-
+<img src="Coding _Monochromatic.svg" alt="Illustration" width="600" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chowdary-07&label=Profile%20views&color=0e75b6&style=flat" alt="chowdary-07" /> </p>
 
 - 📫 How to reach me **sathwikchowdary7@gmail.com**
