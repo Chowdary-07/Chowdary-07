@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sathvik Chowdary Veerapaneni
+- 👀 I’m interested in ML,AI and cloud technologies
+- 🌱 I’m currently learning Microsfot Azure
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/sathvik-chowdary-veerapaneni-5374501a2/
