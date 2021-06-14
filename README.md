@@ -1,7 +1,7 @@
-[![MasterHead](https://assets4.lottiefiles.com/packages/lf20_n9ryrmts.json)]
 
 
-<h1 align="center">Hi 👋, I'm Sathvik Chowdary Veeerapaneni</h1>
+
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sathvik Chowdary Veeerapaneni</h1>
 <h3 align="center">I am a Developer, Competitive Programmer, Machine Learning Engineer, and Cloud Seeker.</h3
 
 
