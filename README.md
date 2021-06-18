@@ -8,7 +8,6 @@
 
 <img align="right" height="300" width="300" src="https://github.com/Chowdary-07/Chowdary-07/blob/main/41504-developer-is-programming-using-notebook.gif">
 
-<img align="right" height="100" width="100" src="https://github.com/Chowdary-07/Chowdary-07/blob/main/azure-fundamentals-600x600.png">
 
 - 📫 How to reach me **sathwikchowdary7@gmail.com**
 - 🏫 Currently **I'm Learning Flutter**
@@ -27,3 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chowdary-07&show_icons=true&locale=en&layout=compact" alt="chowdary-07"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chowdary-07&show_icons=true&locale=en" alt="chowdary-07"  /></p>
+
+<h2 algin="left"> Azure Certified </h2>
+<img align="left" height="150" width="150" src="https://github.com/Chowdary-07/Chowdary-07/blob/main/azure-fundamentals-600x600.png">
+
