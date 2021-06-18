@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chowdary-07&label=Profile%20views&color=0e75b6&style=flat" alt="chowdary-07" /> </p>
 
-<img align="right" alt="Coding" width="270" src="https://github.com/Chowdary-07/Chowdary-07/blob/main/41504-developer-is-programming-using-notebook.gif">
+<img align="right" height="300" width="300" src="https://github.com/Chowdary-07/Chowdary-07/blob/main/41504-developer-is-programming-using-notebook.gif">
+
+<img align="right" height="100" width="100" src="https://github.com/Chowdary-07/Chowdary-07/blob/main/azure-fundamentals-600x600.png">
 
 - 📫 How to reach me **sathwikchowdary7@gmail.com**
 - 🏫 Currently **I'm Learning Flutter**
