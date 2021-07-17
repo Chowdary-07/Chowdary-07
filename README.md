@@ -10,7 +10,7 @@
 
 
 - 📫 How to reach me **sathwikchowdary7@gmail.com**
-- 🏫 Currently **I'm Learning Flutter**
+<!-- - 🏫 Currently **I'm Learning Flutter** -->
 - ⚡ Fun fact **"It’s not magic, it’s talent and sweat"**
 <h3 align="left"> Competative Profiles</h3>
 <p align="left">
